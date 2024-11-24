@@ -23,3 +23,4 @@ Welcome to my GitHub! I'm an engineering student at **INSAT Tunis**, specializin
 - **Email**: [louay.mejri@insat.ucar.tn](mailto:louay.mejri44@gmail.com)
 - **LinkedIn**: [Louay Mejri](https://www.linkedin.com/in/louay-mejri/)
 - **GitHub**: [4Lou4](https://github.com/4Lou4)
+![ReadMe Card](https://github-readme-stats.vercel.app/api?username=4Lou4&show_icons=true&hide_title=true)
