@@ -20,6 +20,6 @@ Welcome to my GitHub! I'm an engineering student at **INSAT Tunis**, specializin
 - **AI/ML**: Reinforcement learning, Computer Vision, NLP
 
 ## 📫 How to Reach Me
-- **Email**: [louay.mejri@insat.ucar.tn](mailto:louay.mejri@insat.ucar.tn)
+- **Email**: [louay.mejri@insat.ucar.tn](mailto:louay.mejri44@gmail.com)
 - **LinkedIn**: [Louay Mejri](https://www.linkedin.com/in/louay-mejri/)
 - **GitHub**: [4Lou4](https://github.com/4Lou4)
