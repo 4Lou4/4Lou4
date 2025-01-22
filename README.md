@@ -55,5 +55,3 @@ Feel free to connect with me through the following channels:
 - **Instagram**: [@louay.me](https://www.instagram.com/louay_mej/)
 
 ---
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api?username=4Lou4&show_icons=true&hide_title=true)
