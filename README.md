@@ -51,7 +51,4 @@ Feel free to connect with me through the following channels:
 - **LinkedIn**: [Louay Mejri](https://www.linkedin.com/in/louay-mejri/)
 - **GitHub**: [4Lou4](https://github.com/4Lou4)
 
-### 📞 Social Links 
-- **Instagram**: [@louay.me](https://www.instagram.com/louay_mej/)
-
 ---
