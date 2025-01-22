@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm an engineering student at **INSAT Tunis**, specializin
 ## 🚀 Key Projects
 - **[Facility Reservation System](#)**: A MERN stack web platform for managing room bookings at INSAT.
 - **[Fun to Link](#)**: A PWA that connects users through events, with features like chat, QR codes, and gamification.
-- **[RL-based DDoS Mitigation in SDN Networks](#)**: Using reinforcement learning to mitigate DDoS attacks in SDN networks.
+- **[ML-based DDoS Mitigation in SDN Networks](#)**: Using Machine learning to mitigate DDoS attacks in SDN networks.
 - **[Car Price Prediction](#)**: A web scraping and ML project to predict car prices in the Tunisian market.
 
 ## 🛠️ Tech Stack
